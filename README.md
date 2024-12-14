@@ -16,6 +16,7 @@ Robotic ultrasound systems hold tremendous potential in medical imaging by offer
 
 This work leverages **Bayesian Optimization (BO)** to systematically refine probe alignment based on imaging quality metrics, enabling fast, accurate adjustments without extensive manual intervention.
 
+[Test Video](https://www.youtube.com/watch?v=xbtTtxrgqpg)
 ---
 
 ## Methodology
