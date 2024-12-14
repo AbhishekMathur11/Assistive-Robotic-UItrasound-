@@ -55,7 +55,7 @@ The errors obtained after experimentation were:
 
 ![Alt text](images/ERROR.gif)  
 
-
+This shows that the method is accurate and efficient to be used for different patient body types and produce effective orientations for the Ultrasound Probe
 
 ## Qualitative Impact
 
