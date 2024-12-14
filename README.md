@@ -1,1 +1,1 @@
-# Assistive-Robotic-UItrasound-
+# Assistive Robotic UItrasound
