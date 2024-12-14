@@ -1,4 +1,5 @@
-# Assistive Robotic UItrasound
+# Robotic Ultrasound Pose Planning with Haptic Force based Estimation
+
 
 Check out my full paper here: [RUSOpt: Robotic UltraSound Probe Normalization with Bayesian Optimization for In-Plane and Out-Plane Scanning](https://ieeexplore.ieee.org/document/10260479)
 
