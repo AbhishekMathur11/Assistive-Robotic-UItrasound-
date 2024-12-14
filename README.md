@@ -5,8 +5,14 @@ Check out my full paper here: [RUSOpt: Robotic UltraSound Probe Normalization wi
 This repository presents **RUSOpt**, a robust framework designed to optimize robotic ultrasound probe alignment for enhanced medical imaging. The project addresses the critical challenge of achieving precise probe orientation for both in-plane and out-plane ultrasound scanning, which is vital for diagnostic accuracy in various clinical settings.
 
 Check out the live deployment of the method with a Linear and Curved probe used for scanning on a 3D phantom with in and out of plane scanning using a Sawyer robot arm:
-![Alt text](images/US-vid.png)  ![Alt text](images/sAWYER.gif)  ![Alt text](images/S2.gif)  
+
+https://github.com/user-attachments/assets/8589619f-c4e2-4680-b7eb-c70db622ac41
+
+
+![Alt text](images/sAWYER.gif)  ![Alt text](images/S2.gif)  
 [Watch the full video here](https://www.youtube.com/embed/xbtTtxrgqpg?si=LPJ7glAaOsSpCTO1)
+
+
 
 ---
 
