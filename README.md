@@ -4,6 +4,8 @@ Check out my full paper here: [RUSOpt: Robotic UltraSound Probe Normalization wi
 
 This repository presents **RUSOpt**, a robust framework designed to optimize robotic ultrasound probe alignment for enhanced medical imaging. The project addresses the critical challenge of achieving precise probe orientation for both in-plane and out-plane ultrasound scanning, which is vital for diagnostic accuracy in various clinical settings.
 
+https://github.com/AbhishekMathur11/Assistive-Robotic-UItrasound-/issues/1#issue-2740122672
+
 ---
 
 ## Introduction
@@ -16,7 +18,6 @@ Robotic ultrasound systems hold tremendous potential in medical imaging by offer
 
 This work leverages **Bayesian Optimization (BO)** to systematically refine probe alignment based on imaging quality metrics, enabling fast, accurate adjustments without extensive manual intervention.
 
-[Test Video](https://www.youtube.com/watch?v=xbtTtxrgqpg)
 ---
 
 ## Methodology
