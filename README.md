@@ -7,11 +7,12 @@ This repository presents **RUSOpt**, a robust framework designed to optimize rob
 
 Check out the live deployment of the method with a Linear and Curved probe used for scanning on a 3D phantom with in and out of plane scanning using a Sawyer robot arm where it explores the orientation space and aligns with the required normal direction eventually:
 
-https://github.com/user-attachments/assets/8589619f-c4e2-4680-b7eb-c70db622ac41
+![Alt text](images/USS.gif)
+
 
 
 ![Alt text](images/sAWYER.gif)  ![Alt text](images/S2.gif)  
-[Watch the full video here](https://www.youtube.com/embed/xbtTtxrgqpg?si=LPJ7glAaOsSpCTO1)
+
 
 
 
